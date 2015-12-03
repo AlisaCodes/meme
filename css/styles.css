@@ -1,0 +1,14 @@
+#text {
+  background-image: url("images/tree.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 588px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  font-family: "impact";
+  text-shadow: 2px 2px #262626;
+}
